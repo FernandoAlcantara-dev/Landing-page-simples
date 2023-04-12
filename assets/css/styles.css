@@ -199,7 +199,6 @@ section{
 
     text-align: center;
 
-    border: 1px solid crimson;
 }
 
 .presentation-content{
@@ -211,7 +210,6 @@ section{
     gap: 4rem var(--gap);
 
     width: 40%;
-    border: 1px solid crimson;
 }
 
 .presentation-content h2{
